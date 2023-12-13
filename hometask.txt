@@ -1,0 +1,7 @@
+demo:
+2 коммита: слияния с ветками boots и buttons
+
+master:
+5 коммитов: создание, слияния веток boots и buttons с веткой boots_buttons, слияния с ветками hat и boots_buttons
+
+7 коммитов
